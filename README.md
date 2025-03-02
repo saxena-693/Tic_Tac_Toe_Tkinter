@@ -1,4 +1,4 @@
-# Tic_Tac_Toe_Tkinter
+# Tic Tac Toe Tkinter
 
 *Tic-Tac-Toe* 🎮
 
@@ -22,7 +22,7 @@ The game allows two players to play alternately and highlights the winner when t
 3.The second player (O) then makes their move.
 4.The game automatically checks for a winner or a tie.
 5.Click Restart Game to play again!
-6.Installation & Running the Game 🚀
+
 
 --> Prerequisites :-
 1. Make sure you have Python installed on your system.
